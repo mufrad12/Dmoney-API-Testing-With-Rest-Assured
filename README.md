@@ -17,13 +17,20 @@ Dmoney API Testing With Rest Assured is a process of testing API endpoints of Dm
 - Rest Assured
 - Java
 - Gradle
+- TestNG
 - Intellij Idea 
 - Allure
+
+## Test Case Report:
+
+https://docs.google.com/spreadsheets/d/1e-oaXUjn-YjhY2QHUapt4Ul0q2JQ96zsMtitKIh-x8U/edit?usp=sharing
 
 ## How to run this project
 - Clone this project
 - Hit the following command into the terminal:
  ```gradle clean test```
+ 
+
  
 ## The following report is generated:
 
