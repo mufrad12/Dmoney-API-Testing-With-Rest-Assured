@@ -1,7 +1,7 @@
-# Dmoney-API-Testing-With-Rest-Assured
+# Dmoney API Testing With Rest Assured
 Dmoney API Testing With Rest Assured is a process of testing API endpoints of Dmoney using the Rest-Assured library in Java. Rest-Assured is a popular Java-based library for testing RESTful web services, and it provides a fluent interface for creating HTTP requests and asserting responses. 
 
-## Scenerio
+## Scenerio :
 1. Call login API
 2. Create  a new customer and an agent
 3. Search by the customer phone number
@@ -13,7 +13,7 @@ Dmoney API Testing With Rest Assured is a process of testing API endpoints of Dm
 9. Send 500 tk to another customer and assert expected balance
 10. Check customer statement
 
-## Technology and Tool Used
+## Technology and Tool Used :
 - Rest Assured
 - Java
 - Gradle
